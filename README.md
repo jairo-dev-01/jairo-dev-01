@@ -6,7 +6,7 @@
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:0175C2&height=180&section=header&text=Olá,%20eu%20sou%20desenvolvedor(a)!&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Cabeçalho azul" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:0175C2&height=180&section=header&text=Olá,%20meu%20nome%20é%20Jairo!&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Cabeçalho azul" />
 </div>
 
 <div align="center">
@@ -16,8 +16,6 @@
 ### Tecnólogo em Sistemas de Computação • C++ • Flutter • Banco de Dados
 
 Construo aplicações com foco em boas experiências, aprendizado constante e código bem organizado.
-
-[![GitHub](https://img.shields.io/badge/GitHub-SEU--USUARIO-181717?style=for-the-badge&logo=github)](https://github.com/SEU-USUARIO)
 
 </div>
 
